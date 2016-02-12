@@ -1,5 +1,7 @@
 # Potts simulation model
 
+[![Join the chat at https://gitter.im/leonardoromor/Potts-Simulation](https://badges.gitter.im/leonardoromor/Potts-Simulation.svg)](https://gitter.im/leonardoromor/Potts-Simulation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Folder tree overview
 
 The code is split in a "parallel" which make use of MPI
