@@ -52,8 +52,9 @@ int main(int argc, char *argv[]){
                 if(rem != 0){
                     params.start_cue = threads*division;
                     params.end_cue = params.start_cue + rem;
+                    PPS::plist.push_back(params);
                 }
-                PPS::plist.push_back(params);
+
             }
         }
 
