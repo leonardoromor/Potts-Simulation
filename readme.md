@@ -1,4 +1,4 @@
-# Potts simulation model
+# Potts High-throughput System
 
 ## Folder tree overview
 
